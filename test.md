@@ -12,6 +12,9 @@
 3
 ![HelloWorld](https://github.com/teizu/test-repo/images/03_HelloWorld.png)
 
+4
+![HelloWorld](https://github.com/teizu/test-repo/blob/master/images/03_HelloWorld.png)
+
 ## 27_仕様です.png
 
 1
@@ -23,3 +26,5 @@
 3
 ![仕様です](https://github.com/teizu/test-repo/images/27_仕様です.png)
 
+4
+![仕様です](https://github.com/teizu/test-repo/blob/master/images/27_仕様です.png)
